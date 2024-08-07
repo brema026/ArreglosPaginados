@@ -1,0 +1,14 @@
+ES NECESARIO DESDE LA CARPETA BUILD EJECUTAR LOS COMANDOS (cd Build>)…..
+
+Generator:
+./generator -size SMALL -output ../output/bigfile.bin
+
+Tamaños--> SMALL, MEDIUM, LARGE
+
+
+Sorter:
+./sorter -input ../output/bigfile.bin -output ../output/sortedfile.csv -alg QS
+
+Algoritmos-->  QS para Quick Sort
+               IS para Insertion Sort
+               BS para Bubble Sort

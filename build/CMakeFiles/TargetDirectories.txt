@@ -1,0 +1,4 @@
+C:/Users/Brene/CLionProjects/ArreglosPaginadosDII/build/CMakeFiles/generator.dir
+C:/Users/Brene/CLionProjects/ArreglosPaginadosDII/build/CMakeFiles/sorter.dir
+C:/Users/Brene/CLionProjects/ArreglosPaginadosDII/build/CMakeFiles/edit_cache.dir
+C:/Users/Brene/CLionProjects/ArreglosPaginadosDII/build/CMakeFiles/rebuild_cache.dir

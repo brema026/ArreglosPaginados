@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\sorter.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\sorter.dir/objects.a @CMakeFiles\sorter.dir\objects1.rsp
+C:\mingw64\bin\c++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\sorter.dir/objects.a -Wl,--no-whole-archive -o sorter.exe -Wl,--out-implib,libsorter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sorter.dir\linkLibs.rsp
